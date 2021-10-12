@@ -171,6 +171,8 @@ div.sign-up-content {
     background-color: #3882f6;
     gap: 94px;
     border-radius: 10px;
+    flex-wrap: wrap;
+    padding: 10px;
 }
 
 div.sign-up {
