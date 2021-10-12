@@ -10,4 +10,4 @@ Photo by <a href="https://unsplash.com/@danielkorpai?utm_source=unsplash&utm_med
 
 ---
 
-LIVE-WEBSITE: <a href="https://github.com/Ale988/LandingPage">Landing page</a>
+LIVE-WEBSITE: <a href="https://ale988.github.io/LandingPage/">Landing page</a>
